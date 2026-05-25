@@ -11,6 +11,9 @@ After that:
 
 Once uploaded, your custom study-planning skill will be ready to use.
 
+<img width="1148" height="466" alt="image" src="https://github.com/user-attachments/assets/617e62b0-0f1c-40f2-9fc4-5fa705155f14" />
+
+
 ## Example Prompts
 
 You can activate the study planner using prompts such as:
