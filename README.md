@@ -1,2 +1,24 @@
-# studyplanforlaw
-Claude Code Study Plan For Legal Fields
+# Legal Study Planner for Claude
+
+To use this repository with Claude, you first need to upload the `.md` file included in this repo into Claude’s **Customize** section.
+
+After that:
+
+1. Click the **"+"** button on the right side of the interface.
+2. Select **Create Skill** or **Upload Skill**.
+3. Upload the `.md` file from this repository.
+
+Once uploaded, your custom study-planning skill will be ready to use.
+
+## Example Prompts
+
+You can activate the study planner using prompts such as:
+
+* "build a study plan"
+* "plan my bar prep"
+* "schedule my studying"
+* "how should I study for [X]"
+
+After entering one of these prompts, simply write the legal topic you want to learn. The assistant will then guide you through different study options and personalized learning steps.
+
+You can continue by selecting the options that best fit your study goals and schedule.
