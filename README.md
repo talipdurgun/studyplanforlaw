@@ -1,5 +1,6 @@
 # Legal Study Planner for Claude
 
+This skill is extracted from the Claude Legal Plugin.
 To use this repository with Claude, you first need to upload the `.md` file included in this repo into Claude’s **Customize** section.
 
 After that:
